@@ -1,0 +1,5 @@
+
+websockets>=11.0.3
+adafruit-circuitpython-neopixel>=1.0.0
+rpi-ws281x>=4.3.0
+RPi.GPIO>=0.7.0; sys_platform == 'linux' and platform_machine == 'armv7l'
